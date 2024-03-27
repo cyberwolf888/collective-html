@@ -1,11 +1,11 @@
 {
-    "name": "laravelcollective/html",
+    "name": "cyberwolf888/html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
     "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
+        "issues": "https://github.com/cyberwolf888/collective-html/issues",
+        "source": "https://github.com/cyberwolf888/collective-html"
     },
     "authors": [
         {
